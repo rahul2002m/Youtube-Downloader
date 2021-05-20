@@ -1,0 +1,6 @@
+pip install pytube
+pip install Pillow
+pip install requests
+pip install tk
+pip install tk-tools
+pip install urllib3
