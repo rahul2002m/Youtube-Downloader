@@ -129,6 +129,6 @@ class Utube_down:
 
 
 
-root=Tk()
+root=Tk
 obj=Utube_down(root)
 root.mainloop()
